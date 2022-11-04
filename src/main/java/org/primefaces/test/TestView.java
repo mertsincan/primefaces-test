@@ -21,7 +21,7 @@ public class TestView implements Serializable {
     
     @PostConstruct  
     public void init() {
-        string = "Welcome to PrimeFaces!!!";
+        string = "Welcome to PrimeFaces-Test!!!";
     }
 
 }
